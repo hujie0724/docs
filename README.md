@@ -95,7 +95,7 @@ git config --global pull.rebase true
 
 - 配置
   <details>
-  <summary><mark><font color=red>>>> 点击展开 <<<</font></mark></summary>
+  <summary>👉⫍点击展开⫎👈</summary>
 
   ```json
   {
@@ -172,7 +172,7 @@ git config --global pull.rebase true
 
 - 配置
   <details>
-  <summary><mark><font color=red>>>> 点击展开 <<<</font></mark></summary>
+  <summary>👉⫍点击展开⫎👈</summary>
 
   ```json
   {
