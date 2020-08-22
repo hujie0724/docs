@@ -94,6 +94,9 @@ git config --global pull.rebase true
   |           [Vue 2 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) | [![](https://vsmarketplacebadge.apphb.com/version/hollowtree.vue-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) [![](https://vsmarketplacebadge.apphb.com/installs/hollowtree.vue-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets) |
 
 - 配置
+  <details>
+  <summary><mark>>>>点击展开<<<</mark></summary>
+
   ```json
   {
     "editor.formatOnSave": true,
@@ -156,6 +159,7 @@ git config --global pull.rebase true
     }
   }
   ```
+  </details>
 
 ## 小程序编辑器
 
@@ -167,6 +171,9 @@ git config --global pull.rebase true
   | [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | [![](https://vsmarketplacebadge.apphb.com/version/esbenp.prettier-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) [![](https://vsmarketplacebadge.apphb.com/installs/esbenp.prettier-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) |
 
 - 配置
+  <details>
+  <summary><mark>>>>点击展开<<<</mark></summary>
+
   ```json
   {
     "editor.formatOnSave": true,
@@ -225,3 +232,4 @@ git config --global pull.rebase true
     }
   }
   ```
+  </details>
