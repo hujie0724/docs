@@ -8,14 +8,13 @@
   | feature | 管理员/开发人员 |   🚫   | 功能分支，当有新需求时，可以从`develop`分支拉出此分支，开发完成后，merge到`develop`分支 |
   | hotfix  | 管理员/开发人员 |   🚫   | 修复分支，从`master`拉出此分支，merge到`master`和`develop`分支                          |
 
-### 场景分解
-
-  1. A
-  2. B
-  3. C
-  4. D
-  5. E
-  6. F
-  7. G
+  - 场景分解
+    1. A
+    2. B
+    3. C
+    4. D
+    5. E
+    6. F
+    7. G
 
 ## 子模块
