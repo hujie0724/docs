@@ -231,7 +231,7 @@
     - General
       |                                   Mac                                    |                                       Windows                                        |
       | :----------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
-      | ![General-Mac](img/gitkraken-general-mac.jpg {width=300px height=300px}) | ![General-Windows](img/gitkraken-general-windows.jpg){:height="300px" width="300px"} |
+      | ![General-Mac](img/gitkraken-general-mac.jpg {width=300px height=300px}) | ![General-Windows](img/gitkraken-general-windows.jpg){:height="100px" width="100px"} |
 
     - Profile
 
