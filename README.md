@@ -24,6 +24,6 @@
     - 安装
     - 登录
     - 配置
-- Git分支与模块管理
-- 小程序框架说明
-- 小程序业务模块说明
+- [Git分支与模块管理](git-branch-submodule.md)
+- [小程序框架说明](wx-framework.md)
+- [小程序业务模块说明](wx-modules.md)
