@@ -30,6 +30,9 @@
     # 显示颜色
     git config --global color.ui true
 
+    # 提交时把CRLF转换成LF，签出时不转换
+    git config --global core.autocrlf input
+
     # 默认推送当前分支
     git config --global push.default current
 
