@@ -1,6 +1,6 @@
 # 目录
 
-- 环境配置
+- [环境配置](install.md)
   - [工具包管理](install.md#工具包管理)
     - 安装
   - [Node](install.md#node)
