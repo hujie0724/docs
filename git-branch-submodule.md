@@ -5,7 +5,7 @@
   | master  | 主干分支，对外发布分支                                                                  |
   | release | 发布分支，当确定需要发布版本时，从`develop`分支拉出此分支                               |
   | dev     | 开发分支，团队成员的代码提交到此分支                                                    |
-  | feature | 特性分支，当有新需求时，可以从`develop`分支拉出此分支，开发完成后，merge到`develop`分支 |
+  | feature | 功能分支，当有新需求时，可以从`develop`分支拉出此分支，开发完成后，merge到`develop`分支 |
   | hotfix  | 修复分支，从`master`拉出此分支，merge到`master`和`develop`分支                          |
 
 ## 子模块
