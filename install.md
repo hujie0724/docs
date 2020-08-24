@@ -43,6 +43,17 @@
     git config --global pull.rebase true
     ```
 
+  - SSH
+    - 生成
+      ```shell
+      # 生成SSH Key，一直默认按回车键确认即可
+      ssh-keygen -t rsa -b 4096 -C "email@example.com"
+
+      # 查看并复制公钥
+      cat ~/.ssh/id_rsa.pub
+      ```
+    - 到公司自建GitLab上[添加SSH密钥](https://gitlab.healthan.net/profile/keys)
+
 ## 终端工具
   - 安装
     |    系统 | 工具                             |                           |
@@ -240,14 +251,9 @@
 
       ![Profile](img/gitkraken-profile.jpg)
 
-    - SSH
-      - 生成
-        ```shell
-        # 生成SSH Key，一直默认按回车键确认即可
-        ssh-keygen -t rsa -b 4096 -C "email@example.com"
+    - Editor
+      |                     Mac                     |                       Windows                       |
+      | :-----------------------------------------: | :-------------------------------------------------: |
+      | ![Editor-Mac](img/gitkraken-editor-mac.jpg) | ![Editor-Windows](img/gitkraken-editor-windows.jpg) |
 
-        # 查看并复制公钥
-        cat ~/.ssh/id_rsa.pub
-        ```
-      - 到公司自建GitLab上[添加SSH密钥](https://gitlab.healthan.net/profile/keys)
     <!-- </details> -->

@@ -8,6 +8,7 @@
   - [Git](install.md#git)
     - 安装
     - 配置
+    - SSH
   - [终端工具](install.md#终端工具)
     - 安装
     - 终端切换
