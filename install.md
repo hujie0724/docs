@@ -243,7 +243,7 @@
     - SSH
       - 生成
         ```shell
-        # 生成SSH Key，一直默认按回车键确认就好
+        # 生成SSH Key，一直默认按回车键确认即可
         ssh-keygen -t rsa -b 4096 -C "email@example.com"
 
         # 查看并复制公钥
