@@ -229,8 +229,9 @@
     <summary>--------------------------------------------- 👉 点击展开 👈 ---------------------------------------------</summary>
 
     - General
-
-      ![General](img/gitkraken-general.jpg)
+      |                      Mac                      |                        Windows                        |
+      | :-------------------------------------------: | :---------------------------------------------------: |
+      | ![General-Mac](img/gitkraken-general-mac.jpg) | ![General-Windows](img/gitkraken-general-windows.jpg) |
 
     - Profile
 
