@@ -249,4 +249,5 @@
         # 查看并复制公钥
         cat ~/.ssh/id_rsa.pub
         ```
+      - 到公司自建GitLab上[添加SSH密钥](https://gitlab.healthan.net/profile/keys)
     <!-- </details> -->
