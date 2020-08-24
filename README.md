@@ -19,8 +19,10 @@
     - 安装
     - 插件
     - 配置
-  - [Git 图形操作工具（GitKraken）](install.md#gitkraken)
-  - [GitKraken配置配置](install.md#gitkraken配置)
+  - [GitKraken](install.md#gitkraken)
+    - 安装
+    - 登录
+    - 配置
 - Git分支与模块管理
 - 小程序框架说明
 - 小程序业务模块说明
