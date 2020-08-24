@@ -229,9 +229,11 @@
     <summary>--------------------------------------------- 👉 点击展开 👈 ---------------------------------------------</summary>
 
     - General
+
       ![General](img/gitkraken-general.jpg)
 
     - Profile
+
       ![Profile](img/gitkraken-profile.jpg)
 
     - SSH
