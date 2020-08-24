@@ -9,7 +9,6 @@
   - [VSCode](#vscode)
   - [小程序编辑器](#小程序编辑器)
 - 配置
-  - [终端切换](#终端工具)
   - [Git 全局配置](#git全局配置)
   - [GitKraken配置配置](#gitkraken配置)
   - [VSCode](#vscode配置)
@@ -54,6 +53,14 @@
 |     Mac | [iTerm2](https://www.iterm2.com) |                           |
 | Windows | `Git Bash`                       | 👈 安装`Git`工具后即可使用 |
 
+- 命令终端工具切换
+  > 用于 Mac 环境
+
+  | 终端 | 命令                |        |
+  | ---: | :------------------ | :----- |
+  |  zsh | `chsh -s /bin/zsh`  | 👈 推荐 |
+  | bash | `chsh -s /bin/bash` |        |
+
 ## VSCode
 
 - [下载地址](https://code.visualstudio.com/Download)
@@ -62,15 +69,6 @@
 
 - [下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
   > 建议使用预发布版，若有问题，可换稳定版
-
-## 命令终端工具切换
-
-> 用于 Mac 环境
-
-| 终端 | 命令                |        |
-| ---: | :------------------ | :----- |
-|  zsh | `chsh -s /bin/zsh`  | 👈 推荐 |
-| bash | `chsh -s /bin/bash` |        |
 
 ## Git全局配置
 
