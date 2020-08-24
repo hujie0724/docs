@@ -2,16 +2,21 @@
 
 - 环境配置
   - [工具包管理](install.md#工具包管理)
+    - 安装
   - [Node](install.md#node)
+    - 安装
   - [Git](install.md#git)
-  - [Git 全局配置](install.md#git全局配置)
+    - 安装
+    - 配置
   - [终端工具](install.md#终端工具)
+    - 安装
+    - 终端切换
   - [VSCode](install.md#vscode)
-  - [VSCode](install.md#vscode配置)
+    - 安装
     - 插件
     - 配置
   - [小程序编辑器](install.md#小程序编辑器)
-  - [小程序编辑器](install.md#小程序编辑器配置)
+    - 安装
     - 插件
     - 配置
   - [Git 图形操作工具（GitKraken）](install.md#gitkraken)
