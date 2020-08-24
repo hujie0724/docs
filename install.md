@@ -1,5 +1,6 @@
 ## 工具包管理
   - 安装
+
     |    系统 | 工具                                     |
     | ------: | :--------------------------------------- |
     |     Mac | [Homebrew](https://brew.sh)              |
@@ -7,6 +8,7 @@
 
 ## Node
   - 安装
+
     |    系统 | 工具                   |                                                                   |
     | ------: | :--------------------- | :---------------------------------------------------------------- |
     |     Mac | `brew install node`    | ![homebrew](https://img.shields.io/homebrew/v/node)               |
@@ -14,6 +16,7 @@
 
 ## Git
   - 安装
+
     |    系统 | 工具                | 版本                                                           |
     | ------: | :------------------ | :------------------------------------------------------------- |
     |     Mac | `brew install git`  | ![homebrew](https://img.shields.io/homebrew/v/git)             |
@@ -56,6 +59,7 @@
 
 ## 终端工具
   - 安装
+
     |    系统 | 工具                             |                           |
     | ------: | :------------------------------- | :------------------------ |
     |     Mac | [iTerm2](https://www.iterm2.com) |                           |
@@ -73,6 +77,7 @@
   - 安装[[下载地址](https://code.visualstudio.com/Download)]
 
   - 插件
+
     |                                                                                                    插件 | 版本                                                                                                                                                                                                                                                                                                                       |
     | ------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     |                      [Easy LESS](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less) | [![](https://vsmarketplacebadge.apphb.com/version/mrcrowl.easy-less.svg)](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less) [![](https://vsmarketplacebadge.apphb.com/installs/mrcrowl.easy-less.svg)](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less)                         |
@@ -155,6 +160,7 @@
     > 建议使用预发布版，若有问题，可换稳定版
 
   - 插件
+
     |                                                                                                    插件 | 版本                                                                                                                                                                                                                                                                                                                   |
     | ------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     |                      [Easy LESS](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less) | [![](https://vsmarketplacebadge.apphb.com/version/mrcrowl.easy-less.svg)](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less) [![](https://vsmarketplacebadge.apphb.com/installs/mrcrowl.easy-less.svg)](https://marketplace.visualstudio.com/items?itemName=mrcrowl.easy-less)                     |
@@ -228,6 +234,7 @@
 
 ## GitKraken
   - 安装
+
     |    系统 | 工具                                                                                                                                       |
     | ------: | :----------------------------------------------------------------------------------------------------------------------------------------- |
     |     Mac | [GitKraken](https://release.gitkraken.com/darwin/installGitKraken.dmg)                                                                     |
@@ -239,10 +246,8 @@
       若自行购买授权，需要支持美元支付的卡【`VISA` 和 `MASTERCARD`】
 
   - 配置
-    <!-- <details>
-    <summary>--------------------------------------------- 👉 点击展开 👈 ---------------------------------------------</summary> -->
-
     - General
+
       |                      Mac                      |                        Windows                        |
       | :-------------------------------------------: | :---------------------------------------------------: |
       | ![General-Mac](img/gitkraken-general-mac.png) | ![General-Windows](img/gitkraken-general-windows.png) |
@@ -252,8 +257,7 @@
       ![Profile](img/gitkraken-profile.png)
 
     - Editor
+
       |                     Mac                     |                       Windows                       |
       | :-----------------------------------------: | :-------------------------------------------------: |
       | ![Editor-Mac](img/gitkraken-editor-mac.png) | ![Editor-Windows](img/gitkraken-editor-windows.png) |
-
-    <!-- </details> -->
