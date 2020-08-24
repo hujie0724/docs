@@ -245,15 +245,15 @@
     - General
       |                      Mac                      |                        Windows                        |
       | :-------------------------------------------: | :---------------------------------------------------: |
-      | ![General-Mac](img/gitkraken-general-mac.jpg) | ![General-Windows](img/gitkraken-general-windows.jpg) |
+      | ![General-Mac](img/gitkraken-general-mac.png) | ![General-Windows](img/gitkraken-general-windows.png) |
 
     - Profile
 
-      ![Profile](img/gitkraken-profile.jpg)
+      ![Profile](img/gitkraken-profile.png)
 
     - Editor
       |                     Mac                     |                       Windows                       |
       | :-----------------------------------------: | :-------------------------------------------------: |
-      | ![Editor-Mac](img/gitkraken-editor-mac.jpg) | ![Editor-Windows](img/gitkraken-editor-windows.jpg) |
+      | ![Editor-Mac](img/gitkraken-editor-mac.png) | ![Editor-Windows](img/gitkraken-editor-windows.png) |
 
     <!-- </details> -->
