@@ -1,18 +1,21 @@
 # 目录
 
-- 环境安装
+- 安装
   - [工具包管理](#工具包管理)
   - [Node](#node)
   - [Git](#git)
   - [Git 图形操作工具（GitKraken）](#gitkraken)
   - [终端工具](#终端工具)
-- 环境配置
-  - [终端切换](#终端工具)
-  - [Git 全局配置](#Git-全局配置)
   - [VSCode](#vscode)
+  - [小程序编辑器](#小程序编辑器)
+- 配置
+  - [终端切换](#终端工具)
+  - [Git 全局配置](#git全局配置)
+  - [GitKraken配置配置](#gitkraken配置)
+  - [VSCode](#vscode配置)
     - 插件
     - 配置
-  - [小程序编辑器](#小程序编辑器)
+  - [小程序编辑器](#小程序编辑器配置)
     - 插件
     - 配置
 
@@ -51,6 +54,15 @@
 |     Mac | [iTerm2](https://www.iterm2.com) |                           |
 | Windows | `Git Bash`                       | 👈 安装`Git`工具后即可使用 |
 
+## VSCode
+
+- [下载地址](https://code.visualstudio.com/Download)
+
+## 小程序编辑器
+
+- [下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
+  > 建议使用预发布版，若有问题，可换稳定版
+
 ## 命令终端工具切换
 
 > 用于 Mac 环境
@@ -60,7 +72,7 @@
 |  zsh | `chsh -s /bin/zsh`  | 👈 推荐 |
 | bash | `chsh -s /bin/bash` |        |
 
-## Git-全局配置
+## Git全局配置
 
 ```shell
 # 设置用户名
@@ -82,7 +94,25 @@ git config --global pull.ff false
 git config --global pull.rebase true
 ```
 
-## VSCode
+## GitKraken配置
+  - 登录
+    > 免费版无法长期使用私有仓库  
+      找【 夏时定 】解决帐号密码登录问题  
+      若自行购买授权，需要支持美元支付的卡【`VISA` 和 `MASTERCARD`】
+
+  <details>
+  <summary>--------------------------------------------- 👉 点击展开 👈 ---------------------------------------------</summary>
+
+  - General
+    ![General](img/gitkraken-general.jpg)
+
+  - Profile
+    ![Profile](img/gitkraken-profile.jpg)
+
+  - SSH
+  </details>
+
+## VSCode配置
 
 - 插件
   |                                                                                                    插件 | 版本                                                                                                                                                                                                                                                                                                                       |
@@ -161,7 +191,7 @@ git config --global pull.rebase true
   ```
   </details>
 
-## 小程序编辑器
+## 小程序编辑器配置
 
 - 插件
   |                                                                                                    插件 | 版本                                                                                                                                                                                                                                                                                                                   |
