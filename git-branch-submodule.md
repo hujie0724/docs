@@ -48,5 +48,6 @@
       | 管理员   | 开发测试完成后，合并`hotfix`分支到`master`分支和`develop`分支                            |
 
   - CHANGELOG
+    > 修改日志，写法规范
 
 ## 子模块规范
