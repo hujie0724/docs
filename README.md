@@ -25,5 +25,9 @@
     - 登录
     - 配置
 - [Git分支与子模块管理](git-branch-submodule.md)
-- [小程序框架说明](wx-framework.md)
-- [小程序业务模块说明](wx-modules.md)
+  - [分支规范](git-branch-submodule.md#分支规范)
+    - 场景分解
+    - CHANGELOG
+  - [子模块规范](git-branch-submodule.md#子模块规范)
+- 小程序框架说明
+- 小程序业务模块说明
